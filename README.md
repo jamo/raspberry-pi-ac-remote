@@ -1,3 +1,10 @@
+# TODO
+
+* config file generation from the pre-recorded commands (see `./commands`)
+* Some api/ui
+* clean up docs so that I can repeat this
+
+
 # WIP
 
 ## Setup on raspberry-pi 4
